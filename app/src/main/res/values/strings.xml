@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">SubmissionApp</string>
+
+    <string name="anime_title">Judul Anime</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="genre">Genre</string>
+    <string name="rating">Rating</string>
+    <string name="about">About</string>
+    <string name="share">Share…</string>
+    <string name="bar_about">About Me</string>
+    <string name="about_nama">Raka Rizkya Hadi Putra</string>
+    <string name="about_email">rakarizkya07@gmail.com</string>
+    <string-array name="data_title">
+        <item>One Piece</item>
+        <item>Boku no Hero Academia</item>
+        <item>Black Clover</item>
+        <item>Jujutsu Kaisen</item>
+        <item>Jigokuraku</item>
+        <item>Chainsaw Man</item>
+        <item>One-Punch Man</item>
+        <item>Shingeki no Kyojin</item>
+        <item>Spy x Family</item>
+        <item>Kimetsu no Yaiba</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action</item>
+        <item>Action, Comedy, Fantasy</item>
+        <item>Action, Award Winning, Fantasy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Fantasy</item>
+        <item>Action, Comedy</item>
+        <item>Action, Award Winning, Drama, Suspense</item>
+        <item>Action, Award Winning, Comedy</item>
+        <item>Action, Award Winning, Fantasy</item>
+    </string-array>
+    <string-array name="data_rating">
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>R - 17+ (violence and profanity)</item>
+        <item>R - 17+ (violence and profanity)</item>
+        <item>R - 17+ (violence and profanity)</item>
+        <item>R - 17+ (violence and profanity)</item>
+        <item>R - 17+ (violence and profanity)</item>
+        <item>PG-13 - Teens 13 or older</item>
+        <item>R - 17+ (violence and profanity)</item>
+    </string-array>
+    <string-array name="data_synopsis">
+        <item>One Piece diciptakan oleh Eiichiro Oda. Komiknya dimulai pada 1997 di Shonen Jump terbitan Shueisha dan hingga kini masih terus berlanjut. One piece itu sendiri bercerita tentang seorang Monkey D. Luffy, alias Luffy, seorang bajak laut yang berobsesi untuk menemukan One Piece, salah satu harta karun paling berharga yang ada di dunianya Luffy waktu itu. Setelah Luffy kecil diselamatkan oleh seorang bajak laut bernama Sanks, Luffy akhirnya bertekat untuk menjadi ‘the real’ bajak laut dengan cara berpetualang ke seluruh penjuru dunia dan menemukan One Piece. Di perjalanannya itulah Luffy menemukan berbagai petualangan seru bersama kapal Going Merry nya. Monkey D. Luffy alias Luffy, adalah kapten dari Kelompok Bajak Laut Topi Jerami. Kepala Luffy 300 juta berry setelah peristiwa di Enies Lobby. Ketika Luffy masih muda, dia secara tidak sengaja memakan Buah Iblis (di versi anime, dia memakannya asal-asalan dengan marah karena merajuk pada Shanks) yaitu Buah Gomu Gomu yang ia anggap adalah makanan penutup. Buah Gomu Gomu (Gomu berarti karet) adalah buah iblis yang menyebabkan tubuh pengguna menjadi melar kayak karet dan bisa memanjangkan anggota tubuhnya Berbeda dengan stereotype kebanyakan dari seorang Tokoh Utama, Luffy muncul malah dengan sifatnya yang sedikit bodoh dan ceroboh. Sebagai seorang bajak laut Luffy bisa dikatakan sangat awam karena tidak mengetahui apapun tentang kompas dan ilmu kelautan. Selain itu dia tidak bisa berenang karena memakan Buah Gomu Gomu. Ciri ciri dari Luffy adalah topi jerami di kepalanya, ia diberikan topi jerami oleh Shanks, bajak laut idolanya semasa ia masih kecil, sehingga kelak ia harus mengembalikannya jika bertemu lagi dilaut.</item>
+        <item>Suatu hari, seorang bocah lelaki berusia empat tahun tiba-tiba menyadari: dunia tidak adil. Delapan puluh persen populasi dunia memiliki kemampuan khusus, yang dikenal sebagai “quirks,” yang telah memberikan banyak kekuatan untuk membuat impian masa kecil mereka menjadi pahlawan super menjadi kenyataan. Sayangnya, Izuku Midoriya adalah satu dari sedikit yang lahir tanpa kekhasan, menderita diskriminasi karenanya. Namun, ia menolak untuk menyerah pada mimpinya menjadi pahlawan; bertekad untuk melakukan hal yang mustahil, Izuku mengarahkan pandangannya pada akademi pelatihan pahlawan elit, UA High. Namun, semuanya berubah setelah pertemuan kebetulan dengan pahlawan nomor satu dan idola Izuku, All Might. Menemukan bahwa mimpinya bukanlah jalan buntu, bocah yang tidak berdaya menjalani pelatihan khusus, bekerja lebih keras dari sebelumnya. Akhirnya, ini menuntunnya mewarisi kekuatan All Might, dan dengan kemampuan barunya, masuk ke sekolah pilihannya, memulai perjalanannya yang melelahkan untuk menjadi penerus pahlawan terbaik di planet ini.</item>
+        <item>Asta dan Yuno ditelantarkan bersama di gereja yang sama. Sebagai anak-anak, mereka berjanji bahwa mereka akan bersaing satu sama lain untuk melihat siapa yang akan menjadi kaisar sihir berikutnya. Namun, saat mereka dewasa, beberapa perbedaan di antara mereka menjadi jelas. Yuno adalah seorang jenius dengan sihir, dengan kekuasaan dan kontrol menakjubkan, sementara Asta tidak bisa menggunakan sihir sama sekali, dan mencoba untuk menebus kekurangnya dengan melatih fisik. Ketika mereka menerima grimoires mereka pada usia 15, Yuno mendapat buku yang spektakuler dengan empat daun semanggi-(kebanyakan orang menerima tiga daun semanggi-), sementara Asta tidak menerima apa-apa sama sekali. Namun, ketika Yuno terancam, kebenaran tentang kekuatan Asta terungkap– ia menerima grimoire lima daun semanggi-, buku ‘semanggi hitam’ anti-sihir. Sekarang mereka berdua melangkah keluar untuk mencari tujuan yang sama!</item>
+        <item>Yuuji adalah seorang jenius di jalur dan lapangan. Tapi dia memiliki minat nol, dia senang sebagai clam di Klub Penelitian Ilmu Ghaib. Meskipun Dia di Klub hanya untuk Iseng, Hal-hal menjadi serius ketika semangat nyata muncul di sekolah! Hidup akan menjadi sangat aneh Di SMA Negeri Sugisawa #3 !</item>
+        <item>Ceritanya berlangsung sekitar tahun kesebelas periode Tokugawa. Ninja yang dikenal sebagai yang terkuat dan paling ditakuti ditangkap dan saat dipenjara menunggu penghakimannya, dia mendapat syarat dari algojo. Kondisinya adalah jika dia bisa mendapatkan obat mujarab keabadian dari tanah misterius mereka akan membiarkannya pergi.</item>
+        <item>Chainsaw Man memiliki cerita yang seru dan tak terduga. Meskipun begitu, kisahnya tidaklah rumit dan cocok untuk dibaca saat bersantai. Dialognya tidak terlalu banyak, membuat para pembaca dapat menghayati penggambaran dunia dan adegan-adegan aksi yang disajikan. Banyaknya lelucon dan humor dalam judul ini pun juga menjadikan komik ini hidup dan menghibur.</item>
+        <item>One Punch-Man bercerita tentang peristiwa yang terjadi di kota metropolitan Jepang, sebuah kota fiksi bernama Z. Dunia ini penuh dengan monster aneh dan misterius yang muncul lalu menyebabkan bencana di kota. Saitama adalah pahlawan yang sangat kuat, dengan mudah ia mengalahkan monster atau penjahat hanya dengan satu pukulan. Namun, karena kekuatannya yang luar biasa, Saitama menjadi bosan dengan kehidupan pahlawannya dan terus berusaha mencari lawan yang lebih kuat yang mampu untuk melawannya. Pada petualangannya, ia bertemu teman-teman baru, musuh, serta seorang muridnya yang bernama Genos. Genos yang merupakan seorang cyborg bersama sang guru Saitama, bergabung dengan Asosiasi Para Pahlawan untuk mendapatkan ketenaran atas semua usahanya dalam menumpas kejahatan. Meskipun Saitama telah mengalahkan banyak monster kuat, ia tetap diremehkan oleh Asosiasi Para Pahlawan kelas atas. Kebanyakan orang termasuk pahlawan lain menuduh dia menjadi pahlawan palsu. Hanya sejumlah kecil orang mengakui bakat luar biasa dan kerendahan hati Saitama terhadap orang lain.</item>
+        <item>ratus tahun yang lalu, manusia hampir dibasmi oleh raksasa. Raksasa yang biasanya digambarkan tinggi, tampaknya tidak memiliki kecerdasan, memakan manusia, dan terburuk dari semua, tampaknya melakukannya untuk kesenangan dan bukan sebagai sumber makanan. Sebagian kecil manusia bertahan hidup dengan menutup diri di kota dilindungi oleh dinding yang sangat tinggi, bahkan lebih tinggi dari yang terbesar dari raksasa. Melangkah maju ke masa kini dan kota belum melihat raksasa di lebih dari 100 tahun. Remaja laki-laki Eren dan saudara angkatnya Mikasa menjadi saksi dari sesuatu yang sangat mengerikan seperti tembok kota dihancurkan oleh raksasa super yang muncul dari udara tipis. Para raksasa kecil membanjiri kota, dua anak menyaksikan dengan ngeri ibu mereka dimakan hidup-hidup. Eren bersumpah bahwa ia akan membunuh setiap raksasa dan membalas dendam untuk semua umat manusia.</item>
+        <item>Seorang Mata-mata utama yang diberi kode sandi dan telah menghabiskan hari-harinya untuk misi penyamaran, semua dunia agar jadi lebih baik. Tetapi suatu hari, ia menerima perintah baru yang sangat sulit dari komando. dan Untuk misinya itu , ia harus membentuk keluarga sementara dan memulai kehidupan baru</item>
+        <item>Kimetsu no Yaiba mengisahkan tentang seorang anak bernama Tanjirou Kamado yang menjadi pemburu iblis setelah keluarganya dibantai oleh makhluk iblis. Dia bertekad untuk menyelamatkan adik perempuannya yang terakhir, Nezuko, yang telah berubah menjadi iblis setelah diserang oleh makhluk tersebut.</item>
+    </string-array>
+    <integer-array name="data_picture">
+        <item>@drawable/one_piece</item>
+        <item>@drawable/bnha</item>
+        <item>@drawable/black_clover</item>
+        <item>@drawable/jjk</item>
+        <item>@drawable/jigokuraku</item>
+        <item>@drawable/chainsaw_man</item>
+        <item>@drawable/opm</item>
+        <item>@drawable/aot</item>
+        <item>@drawable/anya</item>
+        <item>@drawable/kny</item>
+    </integer-array>
+</resources>
